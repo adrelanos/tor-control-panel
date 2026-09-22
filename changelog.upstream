@@ -1,3 +1,31 @@
+commit 7b6362a4bb87936ce38a9770efafc04afa7528f3
+Merge: 95b3d18 0ab6150
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Sep 21 23:00:10 2026 -0400
+
+    Merge remote-tracking branch 'refs/remotes/ArrayBolt3/arraybolt3/trixie'
+
+commit 0ab6150617bb1c0e4dd990ab2bf85d47e776e146
+Merge: 95b3d18 aa3c984
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Sun Sep 20 15:42:32 2026 -0400
+
+    Merge branch 'ai' into arraybolt3/trixie
+
+commit aa3c9843c4de9fc8acd9fd7481e2e4ca7e03c883
+Author: claude (dev586 e40d0109-dfab-4668-b4a9-8a492c3155d2) <noreply@anthropic.com>
+Date:   Wed Sep 16 10:00:07 2026 -0400
+
+    python3 -Bsu shebang + shell-invocation guard
+
+    Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>
+
+commit 95b3d1869a96b60743aaa23c53b8e933fab33c6b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Sep 15 12:04:48 2026 +0000
+
+    bumped changelog version
+
 commit 0fbd65594238e69d6db6411af632bac80aa9522c
 Merge: 43ad1ec a6a022c
 Author: Patrick Schleizer <adrelanos@whonix.org>
